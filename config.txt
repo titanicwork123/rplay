@@ -1,6 +1,6 @@
-token=NDg4NDAwMzk0ODQyODAwMTI5.DnbrKw.V3__flLlkHqtnHohYHEQzFKM5wA
-owner=331081268731052042 
-prefix=!
-game=Baktash-bot
+token=NTE0MzkzNTQyMjk1Mjg5ODY1.DtV55g.p269ioDF32jV-0SnpOsta-LvfeM
+owner=415602689100087297 
+prefix=R
+game=Type Rplay
 stayinchannel=true
 songinstatus=true
